@@ -4,27 +4,11 @@
     "title": "Audiolivros",
     "products": [
       {
-        "id": 6932,
-        "title": "Morrer de tanto viver",
-        "cover_path": "https://api.thepilgrim.com.br/media/covers/51Wplw9QEyL._SX315_BO1204203200_.jpg",
-        "author": "N.D.Wilson",
-        "publisher": "Editora Monergismo",
-        "format_type": "audiobook"
-      },
-      {
         "id": 6930,
         "title": "O profeta pródigo",
         "cover_path": "https://api.thepilgrim.com.br/media/covers/Capa_rmKar9v.jpg",
         "author": "Timothy Keller",
         "publisher": "Vida Nova",
-        "format_type": "audiobook"
-      },
-      {
-        "id": 6923,
-        "title": "O Evangelho e as chaves de casa",
-        "cover_path": "https://api.thepilgrim.com.br/media/covers/9786599000034.jpg",
-        "author": "Rosaria Butterfield",
-        "publisher": "Editora Monergismo",
         "format_type": "audiobook"
       },
       {
@@ -57,14 +41,6 @@
         "cover_path": "https://api.thepilgrim.com.br/media/covers/51CzczkPlpL.jpg",
         "author": "Asher Intrater",
         "publisher": "Impacto",
-        "format_type": "audiobook"
-      },
-      {
-        "id": 6780,
-        "title": "Notas da xícara maluca",
-        "cover_path": "https://api.thepilgrim.com.br/media/covers/511pUKQ6lL.jpeg",
-        "author": "N.D.Wilson",
-        "publisher": "Editora Monergismo",
         "format_type": "audiobook"
       },
       {
@@ -106,14 +82,6 @@
         "format_type": "ebook"
       },
       {
-        "id": 2774,
-        "title": "Patrística - Comentários ao Gênesis - Vol. 21",
-        "cover_path": "https://api.thepilgrim.com.br/media/covers/9788534938952.jpg",
-        "author": "Santo Agostinho",
-        "publisher": "Paulus Editora",
-        "format_type": "ebook"
-      },
-      {
         "id": 378,
         "title": "Comentário Bíblico - Antigo Testamento Volume 4",
         "cover_path": "https://api.thepilgrim.com.br/media/covers/9788526313613.jpg",
@@ -122,27 +90,11 @@
         "format_type": "ebook"
       },
       {
-        "id": 813,
-        "title": "Formigas",
-        "cover_path": "https://api.thepilgrim.com.br/media/covers/9788543301341.jpg",
-        "author": "William Douglas",
-        "publisher": "Editora Mundo Cristão",
-        "format_type": "ebook"
-      },
-      {
         "id": 2737,
         "title": "Patrística - Da incompreensibilidade de Deus | Da providência de Deus | Cartas a Olímpia - Vol. 23",
         "cover_path": "https://api.thepilgrim.com.br/media/covers/9788534938976.jpg",
         "author": "São João Crisóstomo",
         "publisher": "Paulus Editora",
-        "format_type": "ebook"
-      },
-      {
-        "id": 380,
-        "title": "Comentário Bíblico - Antigo Testamento Volume 1",
-        "cover_path": "https://api.thepilgrim.com.br/media/covers/9788526313583.jpg",
-        "author": "Matthew Henry",
-        "publisher": "CPAD",
         "format_type": "ebook"
       },
       {
@@ -176,14 +128,6 @@
     "title": "Novidades"
     "products": [
       {
-        "id": 6932,
-        "title": "Morrer de tanto viver",
-        "cover_path": "https://api.thepilgrim.com.br/media/covers/51Wplw9QEyL._SX315_BO1204203200_.jpg",
-        "author": "N.D.Wilson",
-        "publisher": "Editora Monergismo",
-        "format_type": "audiobook"
-      },
-      {
         "id": 6931,
         "title": "O corvo",
         "cover_path": "https://api.thepilgrim.com.br/media/covers/9786586655940.jpg",
@@ -205,14 +149,6 @@
         "cover_path": "https://api.thepilgrim.com.br/media/covers/9786558080626.jpg",
         "author": "Israel Finkelstein",
         "publisher": "Paulinas",
-        "format_type": "ebook"
-      },
-      {
-        "id": 6928,
-        "title": "CONTOS DO PÓS-ABOLIÇÃO - Astolfo Marques",
-        "cover_path": "https://api.thepilgrim.com.br/media/covers/9786558940968.jpg",
-        "author": "Astolfo Marques",
-        "publisher": "Lebooks Editora",
         "format_type": "ebook"
       },
       {
@@ -238,14 +174,6 @@
         "author": "Santo Agostinho",
         "publisher": "Paulus Editora",
         "format_type": "ebook"
-      },
-      {
-        "id": 6923,
-        "title": "O Evangelho e as chaves de casa",
-        "cover_path": "https://api.thepilgrim.com.br/media/covers/9786599000034.jpg",
-        "author": "Rosaria Butterfield",
-        "publisher": "Editora Monergismo",
-        "format_type": "audiobook"
       },
       {
         "id": 6922,
